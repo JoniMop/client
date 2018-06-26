@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+openpyxl = "==2.5.3"
+Flask = "==0.10.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
